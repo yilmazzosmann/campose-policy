@@ -41,11 +41,14 @@ To analyze feature usage (e.g., how often users utilize automatic vs. manual cap
 To display your content to other users only if you explicitly choose to make a session public.
 
 3. Sharing Your Information & Third-Party Services
-We do not sell your personal information. We share data only with the following service providers necessary to operate the App:
 
-Supabase: Used as our backend database to store User Profiles (username, gender), Session Metadata (device model, sensor data, timestamps), and Location data. Supabase Privacy Policy
+We do not sell or "share" your personal information with third parties for their marketing purposes.
 
-Sentry: Used for error tracking and performance monitoring. Sentry Privacy Policy
+However, we use third-party services that are necessary for the App to function:
+
+Supabase: We use Supabase as our backend database to store your account information (email, username) and any User Content (photos, location data) you voluntarily choose to share. You can review their privacy policy here: https://supabase.com/privacy
+
+Sentry: We use Sentry for crash reporting and performance monitoring. You can review their privacy policy here: https://sentry.io/privacy/
 
 4. Data Retention and Security
 Security: We utilize industry-standard encryption (SSL/TLS) when transmitting your data between your device and our Supabase servers.
