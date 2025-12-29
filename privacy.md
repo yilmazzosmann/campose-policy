@@ -1,92 +1,105 @@
-Privacy Policy for CamPose
+Privacy Policy for CamPose - AI Posing Assistant
 
-Effective Date: November 23, 2025
+Effective Date: December 28, 2025
 
-This Privacy Policy describes how Osman YILMAZ ("we," "us," or "our") collects, uses, and shares information in connection with your use of our mobile application, CamPose (the "App").
+1. INTRODUCTION
 
-1. Information We Collect
-We collect information in the following ways:
+CamPose - AI Posing Assistant ("we," "us," or "our") values your privacy. This Privacy Policy describes how Osman YILMAZ collects, uses, and shares information in connection with your use of our mobile application (the "App").
 
-a) Information You Provide Voluntarily
+This policy is designed to comply with global standards, including the KVKK (Türkiye), GDPR (Europe), and CCPA (California).
 
-Account Information: We collect your email address, username, and display name when you create an account to identify you within the App. You may also voluntarily provide demographic information such as your gender.
+2. INFORMATION WE COLLECT
 
-Session Descriptions: We collect text descriptions and names you assign to your pose sessions.
+A. Information You Provide to Us
 
-User-Generated Content: The App allows you to create images. If you choose to sync or share these sessions to our cloud, we collect the associated metadata and reference pose information.
+Account Information: You can use the App anonymously. If you choose to sign in, we collect your Email Address, a unique Username, and assign a User ID. You may optionally provide your Name and Gender.
 
-b) Information Collected Automatically When you use the App and sync your data, we automatically collect the following:
+User Content: When you upload a photo to "PoseMap," we collect the image file, the GPS location of that specific photo, and your caption.
 
-Device Information: We collect specific details about your mobile device, including the device brand and model. This is required to ensure the accuracy of the camera positioning and pose estimation features.
+B. Information Collected Automatically
 
-Motion & Sensor Data: We collect data regarding your device's orientation in space, including rotation degrees and quaternion data (gyroscope inputs). This is essential for the core functionality of the App to align poses correctly.
+Motion & Sensor Data (Core Functionality): To align poses correctly, we process real-time data regarding your device's orientation in space, including rotation degrees and quaternion data (gyroscope inputs). This data is processed locally for the alignment game.
 
-Usage Activity: We store details about your sessions, including timestamps (start/end times) and activity counts (e.g., total number of captures, number of automatic vs. manual captures).
+Device Information: We collect your Device Model and Brand to optimize the AI.
 
-Location Data: If you grant location permissions, we collect GPS coordinates (latitude and longitude). This data is stored with your session metadata to allow you to map your poses.
+Usage Activity: We store details about your sessions, including timestamps, image resolution settings, "Cheese Mode" success rates, and the number of automatic vs. manual captures.
 
-c) Third-Party Analytics
+Third-Party Diagnostics: Our partners (Sentry and Google AdMob) may automatically collect technical details, such as your Operating System (OS) and Unique Device Identifiers (UUID/IDFA), for crash reporting and advertising purposes.
 
-Crash Reports: We use Sentry to automatically collect crash reports and diagnostic information to improve App stability. This data is anonymized to the extent possible.
+C. Location Data (Precise & On-Demand)
 
-2. How We Use Your Information
-We use the information we collect for the following purposes:
+Collection: We do not track your location in the background. We capture precise GPS coordinates only at the specific moment you capture a photo, and only if you have enabled Location Services.
 
-To provide the App's core functionality, such as saving your pose sessions and ensuring they align correctly with your specific device camera.
+Use & Sharing: This location data is sent to our servers (Supabase) and attached to the image metadata. It remains private unless you explicitly share that photo to "PoseMap," at which point the location becomes visible to other users.
 
-To manage your account and authenticate your identity.
+D. Purchase History
 
-To analyze feature usage (e.g., how often users utilize automatic vs. manual capture) to guide future development.
+We use RevenueCat to manage subscriptions. We process data regarding your purchase history (e.g., Expiration Date, Plan Type) to validate your PRO status. We do not store your credit card information.
 
-To display your content to other users only if you explicitly choose to make a session public.
+3. LEGAL BASIS FOR PROCESSING (GDPR & KVKK)
 
-3. Sharing Your Information & Third-Party Services
+If you are located in the European Economic Area (EEA) or Türkiye, we process your data under the following legal bases:
 
-We do not sell or "share" your personal information with third parties for their marketing purposes.
+Contractual Necessity: We process your Account Info, Sensor Data, and User Content to provide the core service (saving poses, aligning images).
 
-However, we use third-party services that are necessary for the App to function:
+Legitimate Interests: We process Usage Activity and Crash Reports to analyze bugs and improve App stability.
 
-Supabase: We use Supabase as our backend database to store your account information (email, username) and any User Content (photos, location data) you voluntarily choose to share. You can review their privacy policy here: https://supabase.com/privacy
+Consent: If you voluntarily provide sensitive info (Gender) or share to PoseMap, we process this based on your explicit consent.
 
-Sentry: We use Sentry for crash reporting and performance monitoring. You can review their privacy policy here: https://sentry.io/privacy/
+4. DATA STORAGE AND INTERNATIONAL TRANSFERS
 
-4. Data Retention and Security
-Security: We utilize industry-standard encryption (SSL/TLS) when transmitting your data between your device and our Supabase servers.
+Server Location: Your personal data and User Content are primarily stored on servers located in the European Union (Frankfurt) via our provider, Supabase.
 
-Retention: We retain your personal data and session history only as long as your account is active or as needed to provide you with services.
+International Transfers: To operate the App globally (e.g., for support or third-party processing like AdMob/Google), data may be accessed or processed in countries outside the EEA/Türkiye, including the United States. We ensure these transfers are protected by standard contractual clauses or similar legal safeguards.
 
-5. Your Data Rights & Deletion
-You own your content. You have the right to:
+5. THIRD-PARTY SERVICES
 
-Access the personal data we hold about you.
+We use third-party services that are necessary for the App to function:
 
-Request the correction of inaccurate data.
+Supabase: Backend database and authentication (Privacy Policy: ).
 
-Request Account Deletion: You can request full account deletion at any time by contacting us at app.campose@gmail.com. Upon request, we will delete your account, profile data, and all associated session logs from our servers within 30 days.
+RevenueCat: Subscription validation.
 
-6. Legal Basis for Processing (GDPR)
-If you are located in the European Economic Area (EEA), we process your personal data under the following legal bases:
+Sentry: Crash reporting and performance monitoring (Privacy Policy: ).
 
-Contractual Necessity: We process your Account Information, Session Metadata, and User Content to provide the core services of the App (e.g., saving your poses and syncing them to the cloud) as described in this policy.
+Google AdMob: Advertising network.
 
-Legitimate Interests: We process Usage Activity and Crash Reports to analyze how the App is used, identify bugs, and improve the stability and performance of our services.
+6. DATA RETENTION AND ACCOUNT DELETION
 
-Consent: If you voluntarily provide sensitive information (such as Gender) or choose to share your sessions publicly, we process this data based on your explicit consent, which you may withdraw at any time by updating your profile or deleting the content.
+Security: We utilize industry-standard encryption (SSL/TLS) when transmitting your data between your device and our servers.
 
-7. International Data Transfers
-Your personal data is primarily stored on servers located in the European Union (Frankfurt) via our provider, Supabase. However, to operate the App globally and provide support, your data may be accessed or processed in countries outside the European Economic Area (EEA), including the United States, where data protection laws may differ.
+Account Deletion: You can delete your account via the in-app settings. This immediately deletes your User ID, Email, and Session Metadata.
 
-We ensure your data remains protected during these transfers through the following safeguards:
+PoseMap Content (Orphaned Data):
 
-Supabase: While data is stored in the EU, any access required for maintenance or support is governed by strict Data Processing Agreements (DPA) and Standard Contractual Clauses (SCCs) approved by the European Commission.
+Because deleting your account removes your User ID, we lose the link between you and your photos.
 
-Sentry: Crash reporting data sent to Sentry is protected under the EU-U.S. Data Privacy Framework (DPF) and/or Standard Contractual Clauses, ensuring a high level of data protection.
+Any photos you previously uploaded to "PoseMap" may remain on our servers as permanently anonymized content.
 
-8. Children's Privacy
+Note: We cannot delete specific PoseMap photos after you have deleted your account. If you wish to remove them, you must do so BEFORE deleting your account.
+
+7. YOUR RIGHTS (GDPR, KVKK, CCPA)
+
+You have the right to:
+
+Access: Request a copy of the data we hold about you.
+
+Rectification: Correct inaccurate data.
+
+Deletion: Request full account deletion.
+
+Withdraw Consent: Revoke permissions (like Location) via device settings.
+
+California Residents: We do not "sell" your personal data in the traditional sense. However, we use advertising partners (AdMob) that may collect data for personalized ads. You may opt-out of personalized tracking via your iOS/Android settings.
+
+8. CHILDREN'S PRIVACY
+
 Our App is not intended for use by anyone under the age of 13. We do not knowingly collect personal information from children under 13.
 
-9. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy within the App and updating the "Effective Date" at the top.
+10. CHANGES TO THIS POLICY
 
-10. Contact Us
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
+
+11. CONTACT US
+
 If you have any questions about this Privacy Policy, please contact us at: app.campose@gmail.com
