@@ -49,6 +49,10 @@ Refunds: Refunds are handled exclusively by the respective App Store (Apple or G
 
 Local Storage: By default, photos captured using the app are stored locally on your device. We do not access these photos unless you explicitly choose to upload them to "PoseMap."
 
+Real-Time Capture Only: To ensure authenticity, PoseMap only accepts photos captured in real-time via the App's camera at the specific location. Uploads from the device gallery are not supported.
+
+License to Use: By uploading a photo to PoseMap, you grant CamPose a non-exclusive, royalty-free, perpetual, irrevocable, and worldwide license to display, reproduce, distribute, and modify that content within the Service. This license survives the termination of your account.
+
 PoseMap Uploads: If you upload a photo to PoseMap, you grant CamPose a non-exclusive, royalty-free, worldwide license to display, reproduce, and distribute that content within the Service for other users to view.
 
 Content Discretion & Moderation: All uploads are subject to pre-approval. We reserve the right, in our sole and absolute discretion, to review, refuse to post, remove, or edit any User Content for any reason, including but not limited to:
