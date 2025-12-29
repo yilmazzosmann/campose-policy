@@ -71,7 +71,7 @@ Bot Activity: Any automated scraping, data mining, or bot activity is strictly p
 
 Hardware Requirements: CamPose utilizes advanced real-time algorithms involving heavy sensor and image data processing. We do not guarantee that the App will function on all devices.
 
-Device Compatibility: Some older or lower-specification devices may experience crashes, lag, or inability to open the app. We are constantly working to optimize the app, but usage on unsupported devices is at your own risk.
+Device Compatibility: Some older or lower-specification devices may experience crashes, lag, or an inability to open the app. We are constantly working to optimize the app, but usage on unsupported devices is at your own risk.
 
 "As Is" Basis: The Service is provided on an "AS IS" and "AS AVAILABLE" basis. We do not guarantee that the alignment algorithm will work perfectly in all lighting conditions or environments.
 
@@ -83,4 +83,4 @@ Device Compatibility: Some older or lower-specification devices may experience c
 
 13. CHANGES TO TERMS We reserve the right to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
-13. CONTACT US If you have any questions about these Terms, please contact us at: [Your Email Address]
+14. CONTACT US If you have any questions about these Terms, please contact us at: app.campose@gmail.com
