@@ -1,13 +1,19 @@
 TERMS AND CONDITIONS
 Last Updated: 29.12.2025
 
-1. INTRODUCTION Welcome to CamPose - AI Posing Assistant ("CamPose," "we," "us," or "our"). These Terms and Conditions ("Terms") govern your use of the CamPose mobile application and any related services (collectively, the "Service"). The Service is operated by Osman Yilmaz.
+1. INTRODUCTION
+
+Welcome to CamPose - AI Posing Assistant ("CamPose," "we," "us," or "our"). These Terms and Conditions ("Terms") govern your use of the CamPose mobile application and any related services (collectively, the "Service"). The Service is operated by Osman Yilmaz.
 
 By accessing or using CamPose, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Service.
 
-2. PRIVACY POLICY Your privacy is important to us. Your access to and use of the Service is also subject to our Privacy Policy, which explains how we collect, use, and share your personal information (including how we handle your photos and location data). By using CamPose, you acknowledge that you have read and understood our Privacy Policy.
+2. PRIVACY POLICY
+
+Your privacy is important to us. Your access to and use of the Service is also subject to our Privacy Policy, which explains how we collect, use, and share your personal information (including how we handle your photos and location data). By using CamPose, you acknowledge that you have read and understood our Privacy Policy.
    
-3. AGE REQUIREMENT The Service is intended for users who are 13 years of age or older. By using the Service, you represent and warrant that you meet this age requirement. If you are a minor in your jurisdiction (usually under 18), you must have your parent or guardian’s permission to use the Service.
+3. AGE REQUIREMENT
+
+The Service is intended for users who are 13 years of age or older. By using the Service, you represent and warrant that you meet this age requirement. If you are a minor in your jurisdiction (usually under 18), you must have your parent or guardian’s permission to use the Service.
 
 4. ACCOUNTS AND ANONYMITY
 
@@ -61,7 +67,9 @@ Immediate Action: Upon reporting, the content will be immediately hidden from yo
 
 Review Process: Reported content is flagged for administrative review. We will evaluate the report and take appropriate action, which may include permanently removing the content from the Service and banning the offending user.
 
-8. FAIR USAGE POLICY (ANTI-SCRAPING) To protect our community and server resources, we enforce limits on how much content can be viewed per day (PoseMap scrolling limits).
+8. FAIR USAGE POLICY (ANTI-SCRAPING)
+
+To protect our community and server resources, we enforce limits on how much content can be viewed per day (PoseMap scrolling limits).
 
 PRO Limits: PRO users have a generous daily limit designed for human consumption.
 
@@ -75,12 +83,30 @@ Device Compatibility: Some older or lower-specification devices may experience c
 
 "As Is" Basis: The Service is provided on an "AS IS" and "AS AVAILABLE" basis. We do not guarantee that the alignment algorithm will work perfectly in all lighting conditions or environments.
 
-10. THIRD-PARTY SERVICES The App may use third-party services, including but not limited to Supabase (for database management), Sentry (for crash analytics) and advertising networks. By using the App, you acknowledge that your data may be processed by these third parties in accordance with their own privacy policies.
+10. THIRD-PARTY SERVICES
 
-11. LIMITATION OF LIABILITY To the fullest extent permitted by applicable law, CamPose shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, use, goodwill, or other intangible losses, resulting from: (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service.
+The App may use third-party services, including but not limited to Supabase (for database management), Sentry (for crash analytics), and advertising networks. By using the App, you acknowledge that your data may be processed by these third parties in accordance with their own privacy policies.
 
-12. GOVERNING LAW AND JURISDICTION These Terms shall be governed by and construed in accordance with the laws of Türkiye. Any dispute arising out of or in connection with these Terms, including any question regarding their existence, validity, or termination, shall be subject to the exclusive jurisdiction of the courts located in Mersin, Türkiye.
+11. LIMITATION OF LIABILITY
 
-13. CHANGES TO TERMS We reserve the right to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+To the fullest extent permitted by applicable law, CamPose shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, use, goodwill, or other intangible losses, resulting from: (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service.
 
-14. CONTACT US If you have any questions about these Terms, please contact us at: app.campose@gmail.com
+12. INDEMNIFICATION
+
+You agree to defend, indemnify, and hold harmless CamPose and its licensees and licensors, and their employees, contractors, agents, officers, and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, or b) your violation of these Terms, or c) your content posted on the PoseMap.
+
+13. SEVERABILITY AND WAIVER
+
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+
+14. GOVERNING LAW AND JURISDICTION
+
+These Terms shall be governed by and construed in accordance with the laws of Türkiye. Any dispute arising out of or in connection with these Terms, including any question regarding their existence, validity, or termination, shall be subject to the exclusive jurisdiction of the courts located in Mersin, Türkiye.
+
+15. CHANGES TO TERMS
+
+We reserve the right to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 15 day's notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+16. CONTACT US
+
+If you have any questions about these Terms, please contact us at: app.campose@gmail.com
