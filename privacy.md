@@ -56,13 +56,13 @@ International Transfers: To operate the App globally (e.g., for support or third
 
 We use third-party services that are necessary for the App to function:
 
-Supabase: Backend database and authentication (Privacy Policy: https://supabase.com/privacy ).
+Supabase: Backend database and authentication [Privacy Policy](https://supabase.com/privacy) 
 
-Google Maps Platform: Used to display interactive maps and location data. Google’s use of this data is subject to their own privacy policy at https://developers.google.com/maps/terms-20180207#3.-privacy-and-personal-information.
+Google Maps Platform: Used to display interactive maps and location data. Google’s use of this data is subject to their own [Privacy Policy](https://developers.google.com/maps/terms-20180207#3.-privacy-and-personal-information)
 
-RevenueCat: Subscription validation. (Privacy Policy: [https://supabase.com/privacy](https://www.revenuecat.com/privacy/) ).
+RevenueCat: Subscription validation. [Privacy Policy](https://www.revenuecat.com/privacy/)
 
-Sentry: Crash reporting and performance monitoring (Privacy Policy: https://sentry.io/privacy/ ).
+Sentry: Crash reporting and performance monitoring [Privacy Policy](https://sentry.io/privacy/)
 
 Google AdMob: Advertising network.
 
