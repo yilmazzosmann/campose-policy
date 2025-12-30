@@ -89,7 +89,7 @@ Device Compatibility: Some older or lower-specification devices may experience c
 
 10. THIRD-PARTY SERVICES
 
-The App may use third-party services, including but not limited to Supabase (for database management), Sentry (for crash analytics), and advertising networks. By using the App, you acknowledge that your data may be processed by these third parties in accordance with their own privacy policies.
+The App uses third-party services to function, including Supabase (database), Sentry (analytics), RevenueCat (subscriptions), Google AdMob (ads), and Google Maps (location display). By using the App, you acknowledge that your data may be processed by these third parties in accordance with their own privacy policies.
 
 11. LIMITATION OF LIABILITY
 
